@@ -42,4 +42,4 @@ This work is licensed under a Non-Commercial Attribution License. You are free t
 
 ## Contact
 
-For questions, feedback, or support, you can reach out to us at contact@html5up.net or find us on Twitter [@html5_up](https://twitter.com/html5_up).
+For questions, feedback, or support, you can contact us at kurtokan1@gmail.com 
