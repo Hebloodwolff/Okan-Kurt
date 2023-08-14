@@ -9,6 +9,9 @@
     </header>
     <main>
         <p>Merhaba, burası benim kişisel sayfam.</p>
+
+<img src="my-image.jpg.jpg" alt="Description" class="floating-image">
+
         <!-- I am a History graduate with a bachelor’s degree from a reputable Middle East Technical University. Throughout my academic journey, I developed a passion for understanding the intricacies of the past and how they shape our present. This led me to pursue a master’s degree in Educational Administration and Planning, where I am expanding my knowledge and expertise in this field.
 
 Within the realm of education, I have focused on several key areas that have captivated my interest. One such area is the internationalization of higher education. With the world becoming increasingly interconnected, exploring how universities and educational institutions can foster global awareness and provide students with diverse perspectives is imperative. Internationalization not only enhances the quality of education but also prepares students to thrive in an interconnected world.
