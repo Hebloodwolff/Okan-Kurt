@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kişisel Sayfa</title>
+</head>
+<body>
+    <header>
+        <h1>Hoş Geldiniz!</h1>
+    </header>
+    <main>
+        <p>Merhaba, burası benim kişisel sayfam.</p>
+        <!-- Buraya kendi içeriklerinizi ekleyebilirsiniz -->
+    </main>
+    <footer>
+        <p>&copy; 2023 Kişisel Sayfa</p>
+    </footer>
+</body>
+</html>
+
