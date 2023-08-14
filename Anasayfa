@@ -39,3 +39,10 @@ Beyond the realm of education, I am driven by a curiosity for EU foreign policie
 </body>
 </html>
 
+<div class="book">
+    <img src="path_to_book_image.jpg" alt="Book Title" class="book-image">
+    <div class="book-description">
+        <h2>Book Title</h2>
+        <p>Your thoughts about the book...</p>
+    </div>
+</div>
