@@ -29,3 +29,28 @@ footer {
     background-color: #333;
     color: white;
 }
+
+.book {
+    display: flex;
+    align-items: center;
+    padding: 1em;
+    border-bottom: 1px solid #ccc;
+}
+
+.book-image {
+    max-width: 100px;
+    margin-right: 1em;
+}
+
+.book-description {
+    flex: 1;
+}
+
+.book-description h2 {
+    margin-top: 0;
+}
+
+.book-description p {
+    margin: 0;
+}
+
